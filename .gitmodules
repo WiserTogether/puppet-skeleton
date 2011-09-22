@@ -61,3 +61,6 @@
 [submodule "modules/solr"]
 	path = modules/solr
 	url = git://github.com/easel/puppet-solr.git
+[submodule "modules/sshd"]
+	path = modules/sshd
+	url = git://github.com/WiserTogether/puppet-ssh.git
